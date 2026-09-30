@@ -1,0 +1,24 @@
+{
+  "schema": 19,
+  "dataVersion": "19.2",
+  "version": "19.2",
+  "updateKind": "delta",
+  "publishedAt": "2026-09-30",
+  "notes": "B-07 isolated-browser QA ONLY. Synthetic disabled test record; NOT a real VTuber. Do not use as official candidate data. Remove temporary public file after B-07.",
+  "records": [
+    {
+      "id": "qa_b07_isolation_20260930",
+      "name": "QA-B07-ISOLATION-NOT-A-REAL-VTUBER",
+      "category": "未標註",
+      "affiliation": "QA TEST ONLY",
+      "status": "unverified",
+      "enabled": false,
+      "aliases": [],
+      "source": "QA fixture - synthetic record, not a real VTuber",
+      "updated": "2026-09-30",
+      "trust": "custom",
+      "sources": [],
+      "schema": 19
+    }
+  ]
+}
