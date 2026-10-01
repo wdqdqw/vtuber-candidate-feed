@@ -1,0 +1,21 @@
+{
+  "schema": 19,
+  "dataVersion": "19.0",
+  "updateKind": "delta",
+  "records": [
+    {
+      "id": "qa_sr_probe_not_real_vtuber",
+      "name": "QA-SR-PROBE-NOT-A-REAL-VTUBER",
+      "category": "QA TEST ONLY",
+      "affiliation": "QA TEST ONLY",
+      "status": "unverified",
+      "enabled": false,
+      "aliases": [],
+      "source": "QA synthetic fixture",
+      "trust": "custom",
+      "sources": [],
+      "schema": 19,
+      "updated": "2026-10-01"
+    }
+  ]
+}
